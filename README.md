@@ -1,4 +1,4 @@
-![Redis BullMQ](./image.jpg)
+![Redis BullMQ](./simple.jpg)
 
 # Email Queue Producer and Worker
 
