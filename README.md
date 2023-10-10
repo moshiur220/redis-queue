@@ -1,6 +1,6 @@
 ![Redis BullMQ](./simple.jpg)
 
-# Email Queue Producer and Worker
+# Queue Producer and Worker
 
 This is a simple example of using BullMQ to create a job queue for sending emails asynchronously. It consists of two main components: the producer and the worker.
 
